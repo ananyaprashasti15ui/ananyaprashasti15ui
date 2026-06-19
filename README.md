@@ -1,7 +1,7 @@
 # Hi, I'm Ananya Prashasti
 
 ## About Me
-I am a B.Tech Electronics and Communication Engineering undergraduate at SRM Institute of Science and Technology, currently in my second year. I am deeply interested in software development, machine learning, and cybersecurity, with a focus on building practical, real-world solutions.
+I am a B.Tech Electronics and Communication Engineering undergraduate at SRM Institute of Science and Technology, currently in my third year. I am deeply interested in software development, machine learning, and cybersecurity, with a focus on building practical, real-world solutions.
 
 I focus on building and learning by doing, constantly exploring new technologies and applying them through hands-on projects.
 
