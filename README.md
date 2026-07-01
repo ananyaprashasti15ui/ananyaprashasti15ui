@@ -48,12 +48,6 @@ I focus on building and learning by doing, constantly exploring new technologies
 
 ---
 
-## Certifications
-- Python Programming Certificate — Udemy  
-- Computer Networking Certification — Cisco Networking Academy  
-
----
-
 ## Technical Learning & Practice
 - Practicing Python for machine learning and data handling  
 - Studying network security and internet infrastructure  
